@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApricodeTest", "ApricodeTest.csproj", "{487E7207-8A71-4A0F-82F0-B43104F69721}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{487E7207-8A71-4A0F-82F0-B43104F69721}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{487E7207-8A71-4A0F-82F0-B43104F69721}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{487E7207-8A71-4A0F-82F0-B43104F69721}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{487E7207-8A71-4A0F-82F0-B43104F69721}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB462209-B6A2-49DB-9DCE-97417E97E5FA}
+	EndGlobalSection
+EndGlobal
